@@ -1,7 +1,7 @@
 # Local-Notifications
 
 In this application, I wanted to show you how you can prepare local notifications in SwiftUI. 
-You can see the images of this application, which is compatible with dark and light modes, in dark and light modes below. 
+You can see the images of this application, which is compatible with dark and light modes, in dark and light modes below.
 
 ![notificationscreen1](https://github.com/user-attachments/assets/eb1f24d1-c102-4b3c-9869-e4ce740f4598)
 ![notificationscreen2](https://github.com/user-attachments/assets/08f8906b-2a75-42e7-bf8e-0a84abceb7e9)
